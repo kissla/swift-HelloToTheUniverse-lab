@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="17B1003" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Meter" representedClassName=".Meter" syncable="YES">
+        <attribute name="equipmentId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="formulae" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="inputValues" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="instructions" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="maxValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="minValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameOfEquipment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="outputValues" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="readings" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="recordedBy" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shiftTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="units" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Meter" positionX="-63" positionY="-18" width="128" height="255"/>
+    </elements>
+</model>

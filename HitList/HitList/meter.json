@@ -1,0 +1,21 @@
+{
+  "data":
+  [
+   {"Nameofequipment":"East MFP Suction Strainer D/P","EquipmentId":"2 CDA 201","Location":"Unit 2 Turbine BLDG","Units":"H2O","Minvalue":"0","Maxvalue":"50","Formulae":"10*x","inputValues":"100","ShiftTime":"Days","Readings":"Days","Notes":"Working","RecordedBy":"Kiran Rajnala","Instructions":"Handle with care"},
+   
+ 
+   {"Nameofequipment":"East MFP Suction Stnr D/P","EquipmentId":"2 CDA 201","Location":"Unit 2 Turbine BLDG","Units":"H2O","Minvalue":"0","Maxvalue":"50","Formulae":"10*x","inputValues":"100","ShiftTime":"Days","Readings":"Days","Notes":"Working","RecordedBy":"Kiran Rajnala","Instructions":"Handle with care"},
+   
+   
+   {"Nameofequipment":"East MFP Suction Strainer D/P Trend","EquipmentId":"2 CDA 201","Location":"Unit 2 Turbine BLDG","Units":"H2O","Minvalue":"0","Maxvalue":"50","Formulae":"10*x","inputValues":"100","ShiftTime":"Days","Readings":"Days","Notes":"Working","RecordedBy":"Kiran Rajnala","Instructions":"Handle with care"},
+   
+   {"Nameofequipment":"East MFP Suction Condenser D/P","EquipmentId":"2 CDA 201","Location":"Unit 2 Turbine BLDG","Units":"H2O","Minvalue":"0","Maxvalue":"50","Formulae":"10*x","inputValues":"100","ShiftTime":"Days","Readings":"Days","Notes":"Working","RecordedBy":"Kiran Rajnala","Instructions":"Handle with care"},
+   
+   {"Nameofequipment":"East MFP Condenser","EquipmentId":"2 CDA 201","Location":"Unit 2 Turbine BLDG","Units":"H2O","Minvalue":"0","Maxvalue":"50","Formulae":"10*x","inputValues":"100","ShiftTime":"Days","Readings":"Days","Notes":"Working","RecordedBy":"Kiran Rajnala","Instructions":"Handle with care"}
+    ]
+   
+   
+  
+  
+  
+}
